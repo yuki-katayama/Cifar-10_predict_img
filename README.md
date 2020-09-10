@@ -1,6 +1,8 @@
 # Cifar-10_predict_img
 
 ## 初めに
+kerasのデータセットに備わっているCifar10を使用して、モデルを作成する。
+
 cifar10_CNNはcifar10_MLPと比較する為に作成した。
 なので、cifar10_cnnは実行しなくても良い
 
