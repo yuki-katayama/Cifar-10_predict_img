@@ -16,7 +16,7 @@ cifar10_CNNはcifar10_MLPと比較する為に作成した。
     2. グラフ化
     3. 未知のデータに対して予測を行っている
 
-#English
+# English
 ## Overview
 Create a model using Cifar10 included in the keras dataset.
 
